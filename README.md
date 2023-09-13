@@ -1,1 +1,1 @@
-# frida-kahlo
+I worked on a retrospective of Frida Kahlo's work at a major museum. My job was to put together the audio tour. I used my knowledge of Python lists to create a master list of each painting, its date, and its audio tour ID.
